@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    width: 100%;
+    height: 3840px;
+    background-color: #FFFFFF;
+}
+.modulo{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+    z-index: 1;
+    top: 50px;
+    border-bottom: 2px solid #E0752F;
+}
+.modulo__logo{
+    margin-left: 50px;
+}
+.modulo__img{
+    max-width: 80px;
+    position: absolute;   
+    margin-top: -30px;
+
+}
