@@ -57,7 +57,7 @@ body {
   /*background-color: #E0752F;*/
   position: absolute;
   z-index: 5;
-  margin-top: 101px;
+  margin-top: 150px;
   margin-left: 50px;
   margin-right: 50px;
 }
@@ -86,7 +86,7 @@ body {
 .perspiciatis__contenBoton {
   /*background-color: #E0752F;*/
   text-align: left;
-  margin-top: 40px;
+  margin-top: 60px;
 }
 
 .perspiciatis__textoboton {
