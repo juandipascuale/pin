@@ -92,11 +92,11 @@ body {
 .perspiciatis__textoboton {
   text-align: left;
   background-color: #E0752F;
-  border: solid black;
+  border: solid rgb(255, 255, 255);
   border-radius: 3px;
   padding: 5px 8px;
-  color: #FFFFFF;
-  font-size: 16px;
+  color: #ffffff;
+  font-size: 12px;
   text-decoration: none;
   font-family: "Roboto", medium;
 }
