@@ -7,6 +7,12 @@ body{
     height: 3840px;
     background-color: #FFFFFF;
 }
+.header{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: auto;
+}
 .modulo{
     display: flex;
     justify-content: space-between;
@@ -49,17 +55,19 @@ body{
     /*background-color: #E0752F;*/
     position: absolute;
     z-index: 5;
-    margin-top: 150px;
-    margin-left: 50px;
-    margin-right: 50px;
+    margin-top: 10%;
+    margin-left: 6%;
+    margin-right: 10%;
+    margin-bottom: 10%;
 }
-.perspiciatis__contenP{
+.perspiciatis__contenh{
     text-align: left;
     width: 100%;
     
 }
-.perspiciatis__P1{
+.perspiciatis__h1{
     width: 100%;
+    height: 100px;
     font-family: 'Poppins', sans-serif;
     font-size: 2.1em;
     color: #FFFFFF;
@@ -67,8 +75,10 @@ body{
     line-height: 1;
 
 }
-.perspiciatis__p2{
+.perspiciatis__h2{
     width: 100%;
+    height: 150px;
+
     font-family: 'Roboto', sans-serif;
     font-size: 1em;
     color: #FFFFFF;
@@ -76,7 +86,7 @@ body{
 .perspiciatis__contenBoton{
     /*background-color: #E0752F;*/
     text-align: left;
-    margin-top: 60px;
+    margin-top: -20%;
 }
 .perspiciatis__textoboton{
     text-align: left;
